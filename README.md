@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about **React, Express, Node, Django**
 - 📫 How to reach me: **shorenaanzhilov@gmail.com**
-- 😄 Pronouns: **React, **she/her**
+- 😄 Pronouns: **she/her**
 - ⚡ Fun fact: ...
 
 <h3 align="left">SKills:</h3>
