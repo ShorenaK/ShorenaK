@@ -20,10 +20,10 @@
 
 - 📫 How to reach me: 
 
-<a href="https://www.linkedin.com/in/shorenaanzhilov/">
+<a  target=”_blank” href="https://www.linkedin.com/in/shorenaanzhilov/">
   <img align="left" alt="Linkedin" width="100" height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
  
-<a href="mailto:shorenaanzhilov@gmail.com">
+<a  target=”_blank” href="mailto:shorenaanzhilov@gmail.com">
  
   <img align="left" alt="Gmail" width="100" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
