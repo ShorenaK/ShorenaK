@@ -2,7 +2,7 @@
  <div align="center">
 <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="200"/>
   </div>
-<h2 align="center"> 💫 A software engineer 🖥 based in FL. 🌎</h2>
+<h2 align="center"> 💫 A software engineer 🖥 based in FL. </h2>
 
 <h1 align="left">About Me:</h1>
 
