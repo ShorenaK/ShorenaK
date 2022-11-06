@@ -1,6 +1,6 @@
 <h1 align="center">  Hi there 👋  I am Shorena K. Anzhilov </h1>
  <div align="center>
-<a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh" width="200">via GIPHY</a>
+<img src="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh" width="200"/>
   </div>
 
 
