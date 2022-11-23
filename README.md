@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on MERN | WEB APP 💻 for hospitality industry. 
 - 🌱 I’m currently learning data structures & algorithms, planning to expend my knowledge in cloud computing.  
 
-- ⚡ Fun fact: 💫 I was a professional chess player at age 11, representing my school and region at the chess championships, and was also a lead singer of the school band at age 14. 🌟  
+- ⚡ Fun fact: 💫 I was a professional chess player at age 11, representing my school and region at the chess championships, and I was also a lead singer of my school band at age 14. 🌟  
 
 - 📁 Check out [🫲My Portfolio🫱](https://portfolio-shorenakanzhilov.netlify.app)
 
