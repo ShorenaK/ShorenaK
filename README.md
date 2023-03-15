@@ -46,7 +46,7 @@
  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
    
-<img src="github-readme-stats-one-rho-99.vercel.app/api?username=ShorenaK&&show_icons=true&theme=omni"/>
+<img src="https://github-readme-stats-one-rho-99.vercel.app/api?username=ShorenaK&&show_icons=true&theme=omni"/>
   </a>
   </p>
 
