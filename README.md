@@ -40,9 +40,14 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </div>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendonvan&theme=dracula&show_icons=true&hide_border=true)
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=brendonvan&theme=dracula&hide_border=true)<br/>
  
+ 
+![Anurag's GitHub stats](https://github-readme-stats-one-rho-99.vercel.app/api?username=ShorenaK&theme=dracula&show_icons=true&hide_border=true)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=username=ShorenaK&theme=dracula&hide_border=true)<br/>
+ 
+ 
+ 
+<!--  
 <p align="center" >  
  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
@@ -50,4 +55,4 @@
 <img src="https://github-readme-stats-one-rho-99.vercel.app/api?username=ShorenaK&&show_icons=true&theme=omni"/>
   </a>
   </p>
-
+ -->
