@@ -40,7 +40,8 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </div>
  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendonvan&theme=dracula&show_icons=true&hide_border=true)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=brendonvan&theme=dracula&hide_border=true)<br/>
  
 <p align="center" >  
  
