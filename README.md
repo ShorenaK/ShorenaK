@@ -34,10 +34,10 @@
   <img align="left" alt="Discord" width="100" height="30" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /> -->
  
  
-
+ <div align="center"> <h1> ✨ </h1> </div>
   
 <div align="center">
- <div align="center"> ✨ </div>
+
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </div>
  
