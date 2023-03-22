@@ -52,10 +52,7 @@
 
 <p align="center" >  
  
-  <a href="https://git.io/streak-stats"> 
-   
-
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=ShorenaK)]
+   [![GitHub Streak](https://streak-stats.demolab.com?user=ShorenaK&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
   
   </a>
   </p>
