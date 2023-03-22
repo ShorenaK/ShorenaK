@@ -37,7 +37,7 @@
 
   
 <div align="center">
- <h1 align="left"> ✨ </h1>
+ <div align="center"> ✨ </div>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </div>
  
