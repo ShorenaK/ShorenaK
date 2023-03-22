@@ -45,16 +45,17 @@
 ![Anurag's GitHub stats](https://github-readme-stats-one-rho-99.vercel.app/api?username=ShorenaK&theme=dracula&show_icons=true&hide_border=true)
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?username=ShorenaK&theme=dracula&hide_border=true)<br/>
  ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?username=ShorenaK&theme=dracula&hide_border=true)
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img src="https://github-readme-stats-one-rho-99.vercel.app/api?username=ShorenaK&&show_icons=true&theme=dracula"/>
   -->
  
 
 <p align="center" >  
  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <a href="https://git.io/streak-stats"> 
    
 
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=ShorenaK)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=ShorenaK)]
   
   </a>
   </p>
