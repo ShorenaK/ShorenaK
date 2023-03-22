@@ -52,9 +52,9 @@
 
 <h2 align="center" >  
  
- 
- [![GitHub Streak](https://streak-stats.demolab.com?user=ShorenaK&theme=radical&hide_border=false&border=7A2B2B&background=0B061E&stroke=EB5454&ring=EA5736&fire=EA5736&currStreakNum=C4C71C&sideNums=EB5454&currStreakLabel=EB5454&sideLabels=392BE3&dates=47F714)](https://git.io/streak-stats)
- 
+ <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  
+ [![GitHub Streak](https://streak-stats.demolab.com?user=ShorenaK&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=7A2B2B&background=0A062BF4&stroke=EB5454&ring=EA5736&fire=EA5736&currStreakNum=C4C71C&sideNums=EB5454&currStreakLabel=EB5454&sideLabels=392BE3&dates=47F714)](https://git.io/streak-stats)
  
   </h2>
  
