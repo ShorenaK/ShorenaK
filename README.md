@@ -50,11 +50,11 @@
   -->
  
 
-<h4 align="center" >  
+<h2 align="center" >  
  
  
  [![GitHub Streak](https://streak-stats.demolab.com?user=ShorenaK&theme=radical&hide_border=true&border=7A2B2B&background=0B061E&stroke=EB5454&ring=EA5736&fire=EA5736&currStreakNum=C4C71C&sideNums=EB5454&currStreakLabel=EB5454&sideLabels=392BE3&dates=47F714)](https://git.io/streak-stats)
  
  
-  </h4>
+  </h2>
  
