@@ -52,8 +52,10 @@
 
 <p align="center" >  
  
-   [![GitHub Streak](https://streak-stats.demolab.com?user=ShorenaK&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
+   
   
-  </a>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=ShorenaK&theme=radical&hide_border=true&border=7A2B2B&background=190909&stroke=EB5454)](https://git.io/streak-stats)
+ 
+ 
   </p>
  
