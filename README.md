@@ -48,6 +48,7 @@
  ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?username=ShorenaK&theme=dracula&hide_border=true)
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img src="https://github-readme-stats-one-rho-99.vercel.app/api?username=ShorenaK&&show_icons=true&theme=dracula"/>
+ newToken for vercel     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
   -->
  
 
